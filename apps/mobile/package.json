@@ -1,0 +1,24 @@
+{
+  "name": "@restaurant/mobile",
+  "version": "0.1.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "dev": "expo start --clear",
+    "android": "expo run:android",
+    "ios": "expo run:ios"
+  },
+  "dependencies": {
+    "": "link:/",
+    "@react-native-async-storage/async-storage": "^1.23.1",
+    "@supabase/supabase-js": "^2.45.0",
+    "expo": "~51.0.20",
+    "expo-status-bar": "~1.12.1",
+    "react": "18.2.0",
+    "react-native": "0.74.5"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "typescript": "^5.5.4"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "expo": {
+    "name": "Restaurant Mobile",
+    "slug": "restaurant-mobile",
+    "scheme": "restaurant",
+    "sdkVersion": "51.0.0"
+  }
+}
